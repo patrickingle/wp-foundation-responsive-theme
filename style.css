@@ -1,0 +1,15 @@
+/*
+Theme Name: Responsive Theme using Foundation
+Theme URI: http://github.com/patrickingle/wp-foundation-responsive-theme
+Author: PHK Corporation
+Author URI: http://phkcorp.com/
+Description: Starter theme for creating resposive themes using Foundation Grid
+Version: 1.0
+License: No Licemse
+License URI: 
+Tags: Foundation Grid, Responsive Theme
+Text Domain: wp-foundation-responsive
+*/
+
+@import url('foundation-5.4.5/css/normalize.css');
+@import url('foundation-5.4.5/css/foundation.css');
